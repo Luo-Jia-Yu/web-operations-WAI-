@@ -9,3 +9,4 @@
 - 为多媒体创建文字稿与文字说明
 - 提供明确的指示说明
 - 保持内容简单明了
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/2.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/2.jpg)
