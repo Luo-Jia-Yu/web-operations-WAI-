@@ -19,3 +19,6 @@ Space Teddy Inc
 Latest News Space Teddy Inc
 - 页面名称包含在进度条里
 Buy Your Bear(Step1 of 3)Space Teddy Inc
+更多资料
+#### WCAG
+- Page Title 2.4.2(Understanding 2.4.2)
