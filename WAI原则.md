@@ -22,3 +22,10 @@ Buy Your Bear(Step1 of 3)Space Teddy Inc
 #### 更多资料
 ##### WCAG
 - Page Title 2.4.2(Understanding 2.4.2)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/3.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/3.jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg)
+![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg)
