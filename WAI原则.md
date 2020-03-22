@@ -30,6 +30,13 @@ Buy Your Bear(Step1 of 3)Space Teddy Inc
 + 观看内联例子
 ##### 正确：使用标题与副标题
 + 观看内联例子
+#### 更多资料
+##### WCAG
+- Headings and Label2.4.6(Understanding2.4.6)
+- Section Heading 2.4.10(Understanding 2.4.10)
+- Info and Relationships 1.3.1(Understanding 1.3.1)
+##### User Story
+- How a screen reader user uses headings to navigate
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
