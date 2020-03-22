@@ -50,6 +50,24 @@ Buy Your Bear(Step1 of 3)Space Teddy Inc
 - Link Purpose（In Context)2.4.4(Understanding 2.4.4)
 - Link Purpose（Link Only)2.4.9(Understanding 2.4.9)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg)
+## 为图片编写有意义的替代文本
+#### 为每一张图片编写提供图像信息或功能的替代文本。对于纯装饰性图像，无需编写替代文本。
+##### 例：
+##### 使用替代文本传递重要信息
+- 没有信息
+Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.
+替换为: "Charging phone"
+- 信息丰富
+Charging the phone: Connect the phone to a power outlet using the cable and power adaptor provided.
+替换为: "Plug cable into the bottom edge of the phone."
+##### 替代文字通常不可见；它包含在此示例中只是为了您可以看到它是什么。
+#### 更多资料
+##### WCAG
+- Non-text Content 1.1.1 (Understanding 1.1.1)
+##### Tutorial
+- Images
+##### User Story
+- Describes the value of text alternatives to a blind user
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg)
