@@ -69,6 +69,19 @@ Charging the phone: Connect the phone to a power outlet using the cable and powe
 ##### User Story
 - Describes the value of text alternatives to a blind user
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
+## 提供清晰的说明
+#### 确保说明、指示、错误信息使清晰的、简单明了，还有避免不必要的技术语言。描述输入要求，例如：日趋格式。
+##### 例：
+- 密码至少应包含六个字符，并且至少包含一个数字（0-9）。
+- 密码......
+##### 例：错误指示问题所在问题，如何解决
+- The username 'superbear' is already in use.
+- The password needs to include at least one number.
+#### More Information
+##### WCAG
+- Labels or Instructions 3.3.2 (Understanding 3.3.2)
+##### User Story
+- Describes simple instructions help someone with learning difficulties
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg)
