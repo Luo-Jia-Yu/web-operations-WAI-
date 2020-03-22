@@ -84,4 +84,28 @@ Charging the phone: Connect the phone to a power outlet using the cable and powe
 ##### User Story
 - Describes simple instructions help someone with learning difficulties
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/8.jpg)
+## 使内容简单明了
+#### 根据内容，用简单的语言和格式
+- 编写一小段简单明了的句子和段落。
+- 避免使用不必要的复杂单词和短语。考虑为读者提供不知道的术语的词汇表。
+- 首次使用请缩写，例如：Web Content Accessibility Guidelines (WCAG)。
+- 考虑为读者提供不知道的术语的词汇表。
+- 适当使用列表格式。
+- 考虑使用图片、说明、音频、视频和符号帮助含义解释。
+##### 使内容易读易懂
+###### 不必要的复杂
+- CPP: In the event of a vehicular collision, a company assigned representative will seek to ascertain the extent and cause of damages to property belonging to all parties involved. Once our representative obtains information that allows us to understand the causality, we may or may not assign appropriate monetary compensation. The resulting decision may occasion one of the following options: the claim is not approved and is assigned a rejected status, the status of the claim is ambiguous and will require additional information before further processing can occur, the claim is partially approved and reduced payment is assigned and issued, or claim is fully approved and total claim payment is assigned and issued.
+###### 简单明了
+- Claims Processing Procedure (CPP): If you have a car accident, our agent will investigate. Findings will determine any claim payment. This could result in:
+-- Approved claim - full payment
+-- Partially approved claim - reduced payment
+-- Undetermined claim - more information needed
+-- Rejected claim - no payment
+#### 更多资料
+##### WCAG
+- Reading Level 3.1.5 (Understanding 3.1.5)
+- Unusual Words 3.1.3 (Understanding 3.1.3)
+- Abbreviations 3.1.4 (Understanding 3.1.4)
+##### User Story
+- User with reading disabilities benefits from easy to read text
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg)
