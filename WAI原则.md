@@ -38,6 +38,17 @@ Buy Your Bear(Step1 of 3)Space Teddy Inc
 ##### User Story
 - How a screen reader user uses headings to navigate
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg)
+## 使链接文字有意义
+#### 编写链接文本以致描述链接目标内容。避免使用不明确的链接文本，例如：“点击这里”、“读取更多”。表面与链接文本有关的资料，例如：文档类型与大小，例如‘Proposal Documents (RTF, 20MB)
+##### 例：使用链接文本形容目标页面
+##### 错误：没有资料
+- 有关设备自主更多的资料，点击这里（空网页）
+##### 正确：有意义的资料
+- 读取更多有关设备（网页）
+#### 更多资料
+##### WCAG
+- Link Purpose（In Context)2.4.4(Understanding 2.4.4)
+- Link Purpose（Link Only)2.4.9(Understanding 2.4.9)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/7.jpg)
