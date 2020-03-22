@@ -109,3 +109,9 @@ Charging the phone: Connect the phone to a power outlet using the cable and powe
 ##### User Story
 - User with reading disabilities benefits from easy to read text
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/9.jpg)
+## 了解更易接近性
+#### 这些技巧是您需要进行Web访问的一些注意事项。以下资源可帮助您了解为什么可访问性很重要，以及有关使残障人士更易访问网络的准则。
+- 辅助功能简介 —介绍辅助功能并提供许多有用资源的链接。
+- 易访问性原则 -一个介绍WCAG要求。
+- 残疾人如何使用网络 -现实生活中的例子表明了残疾人无障碍获取的重要性。
+- 如何满足WCAG（快速参考） -所有WCAG要求和技术的可定制参考。
