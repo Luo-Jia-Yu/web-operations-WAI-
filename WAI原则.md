@@ -23,6 +23,13 @@ Buy Your Bear(Step1 of 3)Space Teddy Inc
 ##### WCAG
 - Page Title 2.4.2(Understanding 2.4.2)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/3.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/3.jpg)
+## 使用标题传达主旨与结构
+#### 用短洁的标题组织段落，并清晰地描述章节。好的标题提供大纲内容。
+##### 例子：用标题去组织内容
+##### 错误：缺少标题
++ 观看内联例子
+##### 正确：使用标题与副标题
++ 观看内联例子
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/4.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/5.jpg)
 ![https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/6.jpg](https://github.com/Luo-Jia-Yu/web-operations-WAI-/blob/master/.6jpg)
